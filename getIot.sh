@@ -1,0 +1,1 @@
+curl https://renesas.dweet.io/get/dweets/for/S5D9-bb1c > iot.json

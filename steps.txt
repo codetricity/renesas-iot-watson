@@ -1,0 +1,10 @@
+Steps to Test IoT Data Text 
+to Speech
+
+1. Connect IoT device to cloud
+2. Pull data from cloud API
+3. Parse data and convert to 
+human text 
+4. Send text to Watson API
+5. Get data as .wav file
+6. Play
