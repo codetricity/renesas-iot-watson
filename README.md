@@ -3,7 +3,17 @@
 Test scripts to accompany an introductory article for 
 use of Renesas IoT Sandbox APIs with IBM Watson APIs.
 
-Tutorial will be published at learn.iotcommunity.io
+Both Renesas IoT Sandbox and IBM Watson are free to use for limited 
+development testing.
+
+Tutorial will be published at [learn.iotcommunity.io]learn.iotcommunity.io()
+
+## File Description
+
+- getiIot.sh pulls JSON data from Renesas IoT Sandbox Data Monitoring
+- iot-watson.py parses JSON data and saves human-understandable data to file
+- watson-api-no-passwords.sh sends text data to IBM Watson APIs and downloads audio file
+
 
 ## Learning Objections
 
