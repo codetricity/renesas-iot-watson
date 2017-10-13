@@ -6,7 +6,9 @@ use of Renesas IoT Sandbox APIs with IBM Watson APIs.
 Both Renesas IoT Sandbox and IBM Watson are free to use for limited 
 development testing.
 
-Tutorial will be published at [learn.iotcommunity.io]learn.iotcommunity.io()
+Tutorial is available [here](http://learn.iotcommunity.io/t/using-speech-in-your-iot-projects/1368?u=craig).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nSHlzLnynDU" frameborder="0" allowfullscreen></iframe>
 
 ## File Description
 
