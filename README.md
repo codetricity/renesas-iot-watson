@@ -8,7 +8,7 @@ development testing.
 
 Tutorial is available [here](http://learn.iotcommunity.io/t/using-speech-in-your-iot-projects/1368?u=craig).
 
-https://www.youtube.com/embed/nSHlzLnynDU
+YouTube video showing usage with sample voice from IBM Watson API is available [here](https://www.youtube.com/embed/nSHlzLnynDU)
 
 ## Architecture
 
