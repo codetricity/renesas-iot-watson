@@ -14,6 +14,15 @@ https://www.youtube.com/embed/nSHlzLnynDU
 
 ![](http://learn.iotcommunity.io/uploads/default/original/2X/6/6696797f80953e3f74b23813f10a4cb505b127bb.jpg)
 
+## IoT Hardware Used in Tutorial
+
+![](http://learn.iotcommunity.io/uploads/default/original/2X/b/b0bf11f9d6de0ab408416c501beb7495ea243c2b.jpg)
+
+Renesas [S5D9 IoT Fast Prototyping Kit](https://www.seeedstudio.com/Renesas-S5D9-IoT-Fast-Prototyping-Kit-p-2851.html). This is a $35 board with on-board sensors. There's currently a $20 coupon for it available 
+[here](http://learn.iotcommunity.io/t/s5d9-iot-fast-prototyping-kit-coupons-20-off/978/).
+
+
+
 ## File Description
 
 - getiIot.sh pulls JSON data from Renesas IoT Sandbox Data Monitoring
