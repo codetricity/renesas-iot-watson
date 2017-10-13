@@ -8,7 +8,11 @@ development testing.
 
 Tutorial is available [here](http://learn.iotcommunity.io/t/using-speech-in-your-iot-projects/1368?u=craig).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nSHlzLnynDU" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/embed/nSHlzLnynDU
+
+## Architecture
+
+![](http://learn.iotcommunity.io/uploads/default/original/2X/6/6696797f80953e3f74b23813f10a4cb505b127bb.jpg)
 
 ## File Description
 
