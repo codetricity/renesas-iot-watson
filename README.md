@@ -12,7 +12,13 @@ YouTube video showing usage with sample voice from IBM Watson API is available [
 
 ## Architecture
 
+### Using Watson APIs with IoT Sandbox
+
 ![](http://learn.iotcommunity.io/uploads/default/original/2X/6/6696797f80953e3f74b23813f10a4cb505b127bb.jpg)
+
+### How the IoT Sandbox Gets Sensor Data to the Cloud and Processes Data
+
+![](http://learn.iotcommunity.io/uploads/default/original/2X/e/e8c2693455e799fb4be87a13d6167715ca4ceed1.jpg)
 
 ## IoT Hardware Used in Tutorial
 
