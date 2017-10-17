@@ -1,0 +1,1 @@
+{"layout": "internal", "orientation": "portrait", "package": "com.oppkey.iotwatson", "google_play_key": null, "include_pil": false, "expansion": false, "name": "IoT Watson", "source": false, "icon_name": "IoT Watson", "version": "1", "store": "none", "target_version": 14, "permissions": ["VIBRATE"], "include_sqlite": false, "google_play_salt": null, "numeric_version": "1"}
