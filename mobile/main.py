@@ -13,6 +13,7 @@ from lib import event
 
 def main():
     pygame.init()
+    pygame.mixer.init(frequency=22050, size=-16, channels=1, buffer=4096)
 
     screen = pygame.display.set_mode((720, 1280))
 

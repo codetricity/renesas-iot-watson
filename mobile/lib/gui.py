@@ -1,8 +1,15 @@
+try:
+    import pygame_sdl2
+    pygame_sdl2.import_as_pygame()
+except ImportError:
+    pass
+
 import pygame
 
 pygame.init()
 
 screen = pygame.Surface((720, 1280))
+
 
 LIGHT_YELLOW = (255, 250, 202)
 titleFont = pygame.font.Font("fnt/iron.ttf", 100)
@@ -15,22 +22,22 @@ titleSurface2 = titleFont.render(line2, True, LIGHT_YELLOW)
 titleRect2 = titleSurface2.get_rect(y=120, centerx=360)
 
 micIcon = pygame.image.load("img/microphone.png")
+micRect = micIcon.get_rect(x=300, y=700)
 tempIcon = pygame.image.load("img/temp.png")
 
-watsonIcon = pygame.image.load("img/watson.png")
-watsonRect = watsonIcon.get_rect(x=200, y=700)
+watsonIcon = pygame.image.load("img/watson_icon.png")
+watsonRect = watsonIcon.get_rect(x=500, y=300)
 
-getIoT = iconFont.render("Get IoT Data", True, LIGHT_YELLOW)
-getIoTRect = getIoT.get_rect(x=200, y=500)
+getIoT = pygame.image.load("img/getiot.png")
+getIoTRect = getIoT.get_rect(x=50, y=300)
 
-convertData = iconFont.render("Convert IoT Data", True, LIGHT_YELLOW)
-convertDataRect = convertData.get_rect(x=200, y=600)
+convertData = pygame.image.load("img/convert.png")
+convertDataRect = convertData.get_rect(x=280, y=300)
 
 screen.blit(titleSurface, titleRect)
 screen.blit(titleSurface2, titleRect2)
 
-screen.blit(micIcon, (100, 300))
-screen.blit(tempIcon, (300, 300))
+screen.blit(micIcon, micRect)
 
 screen.blit(getIoT, getIoTRect)
 screen.blit(convertData, convertDataRect)
